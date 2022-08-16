@@ -1,0 +1,51 @@
+1.What is oops stands for?
+2.What is Polymorphism? explain types?
+3.what is interface and example in selenium,java?
+4.what is abstarct class and example?
+5.Difference between multiple inheritance and multilevel inheritance
+6.Is multiple inheritance possible in java?
+7.What is keyword for using inheritance  
+8.what is the keyword to connect interface and class
+9.what is difference between class and interface
+10.what is difference between class and abstract class
+
+ANSWERS
+
+1.OOPS stands for Object-Oriented Programming language
+
+2.One of the important concepts in Object Oriented Programming (OOP) is polymorphism which means that a single action can be performed in different ways. 
+The different forms exist when they are related through inheritance.There are two types,
+                   1)Method overloading
+                   2)Method overriding
+
+
+3.An interface in java is a blueprint of a class.it has a static contants and abstract methods. The interface in java is a mechanism of achieve abstraction.
+    Example in selinium:webdriver
+
+
+4.An abstract class is a class that is declared abstract —it may or may not include abstract methods. Abstract classes cannot be instantiated, but they can be 
+  subclassed. When an abstract class is subclassed, the subclass usually provides implementations for all of the abstract methods in its parent class.
+  
+5.Multiple Inheritance : 
+     Multiple Inheritance is when a class inherits from many base classes 
+  
+  Multilevel Inheritance:
+     Multilevel Inheritance is when a class inherits from a derived class making that derived class a base class for a new class.
+
+6.The Java programming language supports multiple inheritance of type, which is the ability of a class to implement more than one interface. An object can have
+  multiple types: the type of its own class and the types of all the interfaces that the class implements.
+
+7.Extends keyword is used for inheritance.
+
+8.The keyword used to connect interface and class is implements.
+
+9.Class:
+    1) A class describes the attributes and behaviors of an object.
+    2) A class may contain abstract methods, concrete methods.
+  Interface:
+    1) An interface contains behaviors that a class implements.
+    2)  An interface contains only abstract methods.
+
+10.An abstract class can have abstract methods (Method without body) and concrete/non-abstract methods (Methods with the body) also. The abstract class must have 
+   at least one abstract method(Method without body). A normal class can't have any abstract method.
+  
