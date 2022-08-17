@@ -15,6 +15,13 @@ public class Student extends Department{
 	} 
 	   
 	   public static void main(String[] args) {
-		  
+		  Student education=new Student();
+		  education.collegeName();
+		  education.collegeCode();
+		  education.collegeRank();
+		  education.deptName();
+		  education.studentName();
+		  education.studentDept();
+		  education.studentId();
 	}
 }
